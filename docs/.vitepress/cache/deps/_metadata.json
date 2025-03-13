@@ -1,0 +1,109 @@
+{
+  "hash": "77f79c9e",
+  "configHash": "70a2eef3",
+  "lockfileHash": "09b982ab",
+  "browserHash": "75a59f4b",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.13_typescript@5.8.2/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "3bdfd7c5",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.2/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "f636aee1",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@12.8.2_typescript@5.8.2/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "603ffc14",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../../../node_modules/.pnpm/pinia@2.3.1_typescript@5.8.2_vue@3.5.13_typescript@5.8.2_/node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "e43f6e9d",
+      "needsInterop": false
+    },
+    "floating-vue": {
+      "src": "../../../../node_modules/.pnpm/floating-vue@5.2.2_vue@3.5.13_typescript@5.8.2_/node_modules/floating-vue/dist/floating-vue.mjs",
+      "file": "floating-vue.js",
+      "fileHash": "ee19dbbc",
+      "needsInterop": false
+    },
+    "vue3-toastify": {
+      "src": "../../../../node_modules/.pnpm/vue3-toastify@0.2.8_vue@3.5.13_typescript@5.8.2_/node_modules/vue3-toastify/dist/index.mjs",
+      "file": "vue3-toastify.js",
+      "fileHash": "2e53e7e5",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@9.13.0_vue@3.5.13_typescript@5.8.2_/node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "298a494f",
+      "needsInterop": false
+    },
+    "swiper/vue": {
+      "src": "../../../../node_modules/.pnpm/swiper@11.2.5/node_modules/swiper/swiper-vue.mjs",
+      "file": "swiper_vue.js",
+      "fileHash": "9be07d99",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../../../node_modules/.pnpm/swiper@11.2.5/node_modules/swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "ac6149c7",
+      "needsInterop": false
+    },
+    "blueimp-md5": {
+      "src": "../../../../node_modules/.pnpm/blueimp-md5@2.19.0/node_modules/blueimp-md5/js/md5.js",
+      "file": "blueimp-md5.js",
+      "fileHash": "8de769ea",
+      "needsInterop": true
+    },
+    "dayjs": {
+      "src": "../../../../node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "db35d6bf",
+      "needsInterop": true
+    },
+    "dayjs/plugin/duration": {
+      "src": "../../../../node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/duration.js",
+      "file": "dayjs_plugin_duration.js",
+      "fileHash": "006c143c",
+      "needsInterop": true
+    },
+    "dayjs/plugin/relativeTime": {
+      "src": "../../../../node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/relativeTime.js",
+      "file": "dayjs_plugin_relativeTime.js",
+      "fileHash": "9c003939",
+      "needsInterop": true
+    },
+    "dayjs/locale/zh-cn": {
+      "src": "../../../../node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/locale/zh-cn.js",
+      "file": "dayjs_locale_zh-cn.js",
+      "fileHash": "7e3d1774",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-F3MILTN7": {
+      "file": "chunk-F3MILTN7.js"
+    },
+    "chunk-KSHLVIPS": {
+      "file": "chunk-KSHLVIPS.js"
+    },
+    "chunk-QIBXB4V6": {
+      "file": "chunk-QIBXB4V6.js"
+    },
+    "chunk-IA4MHOT7": {
+      "file": "chunk-IA4MHOT7.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
+    }
+  }
+}
