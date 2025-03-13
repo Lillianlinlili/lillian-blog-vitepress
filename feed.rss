@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>APP比比</title>
+        <link>https://appbeebee.com</link>
+        <description>前端技术分享博客</description>
+        <lastBuildDate>Thu, 13 Mar 2025 07:48:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <image>
+            <title>APP比比</title>
+            <url>https://appbeebee.com/logo.png</url>
+            <link>https://appbeebee.com</link>
+        </image>
+        <copyright>Copyright © 2023-2025 APP比比</copyright>
+        <item>
+            <title><![CDATA[lillian的一个测试的文章]]></title>
+            <link>https://appbeebee.com/posts/2025/03/lillian-test-post.html</link>
+            <guid>https://appbeebee.com/posts/2025/03/lillian-test-post.html</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://c-ssl.dtstatic.com/uploads/blog/202408/24/q4Seg8GmuxG9XZe.thumb.1000_0.jpg" alt="" /><p><h3><a href="https://appbeebee.com/posts/2025/03/lillian-test-post.html">文章涉及下载地址访问原站：APP比比</a></h3></p><h1 id="lillian的一个测试的文章" tabindex="-1">lillian的一个测试的文章 <a class="header-anchor" href="#lillian的一个测试的文章" aria-label="Permalink to &quot;lillian的一个测试的文章&quot;">&ZeroWidthSpace;</a></h1>
+<h2 id="测试1" tabindex="-1">测试1 <a class="header-anchor" href="#测试1" aria-label="Permalink to &quot;测试1&quot;">&ZeroWidthSpace;</a></h2>
+<p>我测试的随便写一点文字吧看看怎么样哦
+我测试的随便写一点文字吧看看怎么样哦</p>
+<h2 id="测试2" tabindex="-1">测试2 <a class="header-anchor" href="#测试2" aria-label="Permalink to &quot;测试2&quot;">&ZeroWidthSpace;</a></h2>
+<p>我测试的随便写一点文字吧看看怎么样哦</p>
+<h3 id="测试3" tabindex="-1">测试3 <a class="header-anchor" href="#测试3" aria-label="Permalink to &quot;测试3&quot;">&ZeroWidthSpace;</a></h3>
+<p>我测试的随便写一点文字吧看看怎么样哦</p>
+<p><h3 style="color:#3451b2"><a href="https://appbeebee.com/posts/2025/03/lillian-test-post.html">文章涉及下载地址访问原站：APP比比</a></h3></p>]]></content:encoded>
+            <enclosure url="https://c-ssl.dtstatic.com/uploads/blog/202408/24/q4Seg8GmuxG9XZe.thumb.1000_0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
